@@ -12,4 +12,4 @@ https://pub.dartlang.org/packages/datetime_helper
 https://pub.dartlang.org/packages/datetime_helper#-installing-tab-
 
 ## use
-https://github.com/caijinglong/dart_datetime_helper/example/dart.dart
+https://pub.dartlang.org/packages/datetime_helper#-example-tab-

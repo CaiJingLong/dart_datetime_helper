@@ -1,6 +1,6 @@
 name: datetime_helper
-description: A new flutter package project.
-version: 0.0.1
+description: some method to helper use the dart's datetime
+version: 0.0.2
 author: caijinglong<cjl_spy@163.com>
 homepage: https://github.com/CaiJingLong/dart_datetime_helper
 
