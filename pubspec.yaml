@@ -1,8 +1,8 @@
 name: datetime_helper
 description: A new flutter package project.
 version: 0.0.1
-? author
-? homepage
+author: caijinglong<cjl_spy@163.com>
+homepage: https://github.com/CaiJingLong/dart_datetime_helper
 
 environment:
   sdk: ">=2.0.0-dev.28.0 <3.0.0"
